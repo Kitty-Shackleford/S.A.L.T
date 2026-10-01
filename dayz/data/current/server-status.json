@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "server_id": "15580969",
-  "generated_at": "2026-10-01T12:42:31.270Z",
+  "generated_at": "2026-10-01T18:36:47.859Z",
   "status": "started",
   "players": {
     "current": 2,
@@ -10,5 +10,5 @@
   "uptime": {
     "seconds": null
   },
-  "last_status_change": 1790856523
+  "last_status_change": 1790868518
 }
